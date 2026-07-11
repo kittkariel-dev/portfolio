@@ -46,7 +46,10 @@ const router = createBrowserRouter([
       </Layout>
     ),
   },
-]);
+],
+{
+  basename: '/portfolio'
+});
 
 export function AppRouter() {
   return <RouterProvider router={router} />;
