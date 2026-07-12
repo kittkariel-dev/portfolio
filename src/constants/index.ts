@@ -180,7 +180,7 @@ export const GITHUB_STATS = {
 };
 
 export const HERO_CONTENT = {
-  name: 'Software Engineer',
+  name: 'Kitt Kariel Sanchez',
   title: 'Building Scalable & Elegant Solutions',
   description: 'Passionate backend engineer specializing in .NET and modern web technologies. I craft robust, performant APIs and scalable systems that power exceptional user experiences.',
 };
