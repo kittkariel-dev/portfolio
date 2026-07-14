@@ -5,8 +5,8 @@ import {
   Skills,
   Projects,
   Experience,
-  GitHub,
-  Certificates,
+  // GitHub,
+  // Certificates,
   TimelineSection,
   Contact,
 } from '@/components/sections';
@@ -24,8 +24,8 @@ export function HomePage() {
       <Skills />
       <Projects />
       <Experience />
-      <GitHub />
-      <Certificates />
+      {/* <GitHub /> */}
+      {/* <Certificates /> */}
       <TimelineSection />
       <Contact />
     </motion.div>
